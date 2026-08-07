@@ -3,13 +3,16 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
+```
+EXCLUDED_LANG=PLpgSQL, Jupyter Notebook, HTML, CSS, AGS Script, ASL, SCSS, Roff
+```
 
 <div align="center">
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/urbskali/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/urbskali/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/urbskali/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/urbskali/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </a>
 </div>
 
