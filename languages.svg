@@ -134,16 +134,16 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 39.956%;
+  width: 39.964%;
 " class="progress-item"></span><span style="
   background-color: #ff3e00; 
-  width: 23.662%;
+  width: 23.659%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 10.549%;
+  width: 10.548%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 5.745%;
+  width: 5.744%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 4.593%;
@@ -158,13 +158,13 @@ div.ellipsis {
   width: 2.151%;
 " class="progress-item"></span><span style="
   background-color: #178600; 
-  width: 1.721%;
+  width: 1.720%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
   width: 1.520%;
 " class="progress-item"></span><span style="
   background-color: #1d365d; 
-  width: 0.617%;
+  width: 0.616%;
 " class="progress-item"></span><span style="
   background-color: #dd1100; 
   width: 0.541%;
@@ -194,7 +194,7 @@ div.ellipsis {
   width: 0.265%;
 " class="progress-item"></span><span style="
   background-color: #5ce600; 
-  width: 0.210%;
+  width: 0.209%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.160%;
